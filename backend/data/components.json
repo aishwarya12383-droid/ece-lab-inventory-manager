@@ -1,0 +1,136 @@
+{
+  "components": [
+    {
+      "id": "ECE001",
+      "name": "ESP32 Development Board",
+      "category": "Microcontroller",
+      "quantity": 15,
+      "minStock": 5,
+      "laboratory": "Embedded Systems Lab",
+      "status": "Available",
+      "manufacturer": "Espressif",
+      "dateAdded": "2024-01-15",
+      "description": "Dual-core ESP32 Wi-Fi + Bluetooth development board with 30 pins."
+    },
+    {
+      "id": "ECE002",
+      "name": "Arduino Uno",
+      "category": "Development Board",
+      "quantity": 10,
+      "minStock": 4,
+      "laboratory": "Embedded Systems Lab",
+      "status": "Available",
+      "manufacturer": "Arduino",
+      "dateAdded": "2024-01-20",
+      "description": "ATmega328P-based microcontroller board with 14 digital I/O pins."
+    },
+    {
+      "id": "ECE003",
+      "name": "IR Sensor",
+      "category": "Sensor",
+      "quantity": 25,
+      "minStock": 10,
+      "laboratory": "IoT Lab",
+      "status": "Available",
+      "manufacturer": "Elegoo",
+      "dateAdded": "2024-02-01",
+      "description": "Infrared obstacle avoidance sensor module with adjustable range."
+    },
+    {
+      "id": "ECE004",
+      "name": "Ultrasonic Sensor",
+      "category": "Sensor",
+      "quantity": 12,
+      "minStock": 5,
+      "laboratory": "IoT Lab",
+      "status": "Available",
+      "manufacturer": "HC-SR04",
+      "dateAdded": "2024-02-05",
+      "description": "Ultrasonic ranging module with 2cm-400cm non-contact measurement."
+    },
+    {
+      "id": "ECE005",
+      "name": "Digital Storage Oscilloscope",
+      "category": "Testing Equipment",
+      "quantity": 4,
+      "minStock": 2,
+      "laboratory": "Communication Lab",
+      "status": "In Use",
+      "manufacturer": "Rigol",
+      "dateAdded": "2024-02-10",
+      "description": "4-channel 100 MHz digital storage oscilloscope with USB storage."
+    },
+    {
+      "id": "ECE006",
+      "name": "Breadboard",
+      "category": "Electronic Component",
+      "quantity": 30,
+      "minStock": 10,
+      "laboratory": "Digital Electronics Lab",
+      "status": "Available",
+      "manufacturer": "MB-102",
+      "dateAdded": "2024-02-15",
+      "description": "830-point solderless breadboard with power rails."
+    },
+    {
+      "id": "ECE007",
+      "name": "NodeMCU ESP8266",
+      "category": "Communication Module",
+      "quantity": 8,
+      "minStock": 5,
+      "laboratory": "IoT Lab",
+      "status": "Available",
+      "manufacturer": "Espressif",
+      "dateAdded": "2024-03-01",
+      "description": "ESP8266-based Wi-Fi development board with Lua and Arduino IDE support."
+    },
+    {
+      "id": "ECE008",
+      "name": "Function Generator",
+      "category": "Testing Equipment",
+      "quantity": 3,
+      "minStock": 2,
+      "laboratory": "Analog Electronics Lab",
+      "status": "In Use",
+      "manufacturer": "GW Instek",
+      "dateAdded": "2024-03-10",
+      "description": "3 MHz function generator with sine, square, triangle, and sawtooth waveforms."
+    },
+    {
+      "id": "ECE010",
+      "name": "Raspberry Pi",
+      "category": "Development Board",
+      "quantity": 6,
+      "minStock": 4,
+      "laboratory": "Embedded Systems Lab",
+      "status": "Available",
+      "manufacturer": "Raspberry Pi Foundation",
+      "dateAdded": "2024-03-20",
+      "description": "Raspberry Pi 4 Model B with 4GB RAM, quad-core Cortex-A72 processor."
+    },
+    {
+      "id": "ECE011",
+      "name": "Jumper Wires (40-pack)",
+      "category": "Electronic Component",
+      "quantity": 50,
+      "minStock": 20,
+      "laboratory": "Digital Electronics Lab",
+      "status": "Available",
+      "manufacturer": "Elegoo",
+      "dateAdded": "2024-04-01",
+      "description": "40-piece male-to-male DuPont jumper wires, 20cm length."
+    },
+    {
+      "id": "ECE012",
+      "name": "DHT22 Temperature Sensor",
+      "category": "Sensor",
+      "quantity": 10,
+      "minStock": 8,
+      "laboratory": "IoT Lab",
+      "status": "Available",
+      "manufacturer": "Aosong",
+      "dateAdded": "2024-04-05",
+      "description": "Digital temperature and humidity sensor with high accuracy."
+    }
+  ]
+}
